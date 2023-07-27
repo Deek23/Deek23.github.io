@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmatrixviewer=self.webpackChunkmatrixviewer||[]).push([[546],{8546:function(r,e,n){n.r(e),n.d(e,{default:function(){return f}});var t=n(5671),u=n(3144),i=n(136),a=n(9388),c=n(9398),f=function(r){(0,i.Z)(n,r);var e=(0,a.Z)(n);function n(){return(0,t.Z)(this,n),e.apply(this,arguments)}return(0,u.Z)(n,[{key:"decodeBlock",value:function(r){return(0,c.rr)(new Uint8Array(r)).buffer}}]),n}(n(2889).Z)}}]);
+//# sourceMappingURL=546.840cd0f3.chunk.js.map
