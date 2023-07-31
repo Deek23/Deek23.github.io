@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pod/matrix_viewer/static/css/main.96439d28.css",
-    "main.js": "/pod/matrix_viewer/static/js/main.f95c3eb9.js",
+    "main.js": "/pod/matrix_viewer/static/js/main.86d04548.js",
     "static/js/966.47744614.chunk.js": "/pod/matrix_viewer/static/js/966.47744614.chunk.js",
     "static/js/337.03b0c2b4.chunk.js": "/pod/matrix_viewer/static/js/337.03b0c2b4.chunk.js",
     "static/js/513.5f1929ca.chunk.js": "/pod/matrix_viewer/static/js/513.5f1929ca.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/72.7ccec99d.chunk.js": "/pod/matrix_viewer/static/js/72.7ccec99d.chunk.js",
     "index.html": "/pod/matrix_viewer/index.html",
     "main.96439d28.css.map": "/pod/matrix_viewer/static/css/main.96439d28.css.map",
-    "main.f95c3eb9.js.map": "/pod/matrix_viewer/static/js/main.f95c3eb9.js.map",
+    "main.86d04548.js.map": "/pod/matrix_viewer/static/js/main.86d04548.js.map",
     "966.47744614.chunk.js.map": "/pod/matrix_viewer/static/js/966.47744614.chunk.js.map",
     "337.03b0c2b4.chunk.js.map": "/pod/matrix_viewer/static/js/337.03b0c2b4.chunk.js.map",
     "513.5f1929ca.chunk.js.map": "/pod/matrix_viewer/static/js/513.5f1929ca.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.96439d28.css",
-    "static/js/main.f95c3eb9.js"
+    "static/js/main.86d04548.js"
   ]
 }
